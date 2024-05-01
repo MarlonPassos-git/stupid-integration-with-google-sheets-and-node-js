@@ -1,0 +1,16 @@
+{
+  "name": "stupid-integration-with-google-sheets-and-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "dev": "node --watch --env-file=.env index.mjs"
+  },
+  "keywords": [],
+  "author": "marlon passos",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^135.1.0",
+    "zod": "^3.23.5"
+  }
+}
